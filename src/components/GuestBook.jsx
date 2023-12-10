@@ -101,7 +101,7 @@ const GuestBook = () => {
     return (
         <Container sx={{ padding: 4 }}>
             <Typography variant="h4" gutterBottom color="white">
-                Sign my Guestbook
+                Sign My Guestbook
             </Typography>
             {result ? (
                 <>
